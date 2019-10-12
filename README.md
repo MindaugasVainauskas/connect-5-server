@@ -1,5 +1,5 @@
 # connect-5-server
-Connect-5 console client/server game Server part
+Simple connect-5 client/server (connect-4 offshoot) console game server part.
 
 ## Note:
 - Not fully functional
